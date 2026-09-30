@@ -1,0 +1,6 @@
+metric,before,after
+Throughput (Mbps),45.45,95.68
+Latency (ms),218.61,10.21
+Packet loss (%),15.66,0.5
+Channel utilisation (%),100.0,65.83
+Interference (dB over noise),17.16,0.0
